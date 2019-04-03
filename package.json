@@ -1,0 +1,22 @@
+{
+  "name": "brock-taban-website",
+  "version": "1.0.0",
+  "description": "Brock Taban's personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brocktaban/website.git"
+  },
+  "author": "Brock Taban",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brocktaban/website/issues"
+  },
+  "homepage": "https://github.com/brocktaban/website#readme",
+  "dependencies": {
+    "firebase-tools": "^6.5.1"
+  }
+}
