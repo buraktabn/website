@@ -237,3 +237,95 @@ See sunset and sunrise in the park surrounded by mountain views.
 2. La Petite du Cap
 
 ![Sainte-Anne-des-Monts](https://github.com/brocktaban/website/blob/trip/trip/canada/east-coast/images/sainte-anne-des-monts.png?raw=true)
+
+### The city of Gaspé
+Gaspé is a city at the tip of the Gaspé Peninsula in the Gaspésie–Îles-de-la-Madeleine region of eastern Quebec in Canada. Gaspé is located about 650 kilometres northeast of Quebec City, and 350 kilometres east of Rimouski. As of the Canada 2011 Census, the city had a total population of 15,163.
+
+#### Must-stops along the way
+Hike ancient trails, discover Indigenous culture, and see the place where French explorers arrived in Canada.
+
+1. Forillon National Park
+2. Cross of Gaspé
+3. Site d'interprétation Micmac de Gespeg
+4. Birthplace of Canada
+
+#### Eat
+Feast on fresh seafood on a terrace overlooking the ocean.
+
+1. Café de L’Anse
+
+#### End your day
+Visit an 1860s stone home — then spend the night
+
+1. Auberge William Wakeham
+
+### Percé
+Percé is a small city near the tip of the Gaspé Peninsula in Quebec, Canada. Within the territory of the city there is a village community also called Percé.
+
+#### Must-stops along the way
+Spend the day discovering a 375 million-year-old sea stack and visiting a colony of Northern Gannet birds.
+
+1. Parc National de l'Île-Bonaventure-et-du-Rocher-Percé
+
+#### Eat
+
+1. La Vieille Usine
+
+#### End your day
+Admire Percé Rock in the distance from your private balcony
+
+1. La Normandie
+
+![Parce](https://github.com/brocktaban/website/blob/trip/trip/canada/east-coast/images/parce.png?raw=true)
+
+### Carleton-sur-Mer
+Carleton-sur-Mer is the fifth largest town of the Gaspésie's south shore, in southeastern Quebec, Canada, located on Route 132, along the Baie des Chaleurs. The town's territory includes the communities of Biron, Caps-de-Maria, Carleton, Robitaille, and Saint-Omer.
+
+#### Must-stops along the way
+
+1. Swim and sail
+2. Oratoire Notre-Dame-Du-Mont-St-Joseph
+3. Sentiers de Randonnee Pedestre
+4. Phare de Carleton
+
+#### Eat
+Sip local beer in an old theatre on the seaside.
+
+1. Microbrasserie Le Naufrageur
+
+#### End your day
+Stay close to the sea, whether you bed down in an historic hotel or hide away in a tent
+
+1. Manoir Belle Plage
+2. Luxury beach camping
+
+![Carleton-sur-Mer](https://github.com/brocktaban/website/blob/trip/trip/canada/east-coast/images/carleton-sur-mer.png?raw=true)
+
+## Iles de la Madeleine, Quebec
+
+Take a trip through the Iles de Madeleine and discover the beauty and charm that these secluded islands have to offer. There are various ways to get to the islands, including a five-hour ferry from Prince Edward Island and cruises from Montreal and Quebec City.
+
+![Iles de la Madeleine](https://github.com/brocktaban/website/blob/trip/trip/canada/east-coast/images/iles-de-la-madeleine.jpg?raw=true)
+
+### What to do
+
+1. Auberge la Salicorne
+2. Le Pédalier
+3. La balade du Bout du Banc
+4. Auberge la Salicorne
+5. Excursions en Mer 
+6. Aérosport école de kite 
+
+### Where to stay
+
+1. Les Pas Perdus
+2. La Maison des Falaises
+3. Maison Best
+4. Auberge Chez Denis à François
+5. Auberge de la P'tite Baie
+
+## Bay of Fundy Route, New Brunswick
+
+Extend the above route by adding on a drive along New Brunswick’s Bay of Fundy, or make it a trip of its own! You’ll begin in the city of Moncton, and then continue along the coast, past highlights like Hopewell Rocks, wineries, and of course, the Fundy itself.
+
+![Bay of Fundy Route](https://github.com/brocktaban/website/blob/trip/trip/canada/east-coast/images/bay-of-fundy-route.png?raw=true)
