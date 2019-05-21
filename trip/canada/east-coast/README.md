@@ -6,6 +6,7 @@ This is a guide for the  the east coast Canada trip
 The Trans Canada Highway will take you on the most direct route straight through Eastern Canada. Hop on the highway in Montreal and drive straight through to St. John’s, Newfoundland – with a ferry ride in between the mainland and Newfoundland of course.
 ![East Trans Canada Highway](![east-trans-canada-highway.png](https://github.com/brocktaban/website/blob/trip/trip/canada/east-coast/images/east-trans-canada-highway.png?raw=true)
 
+## ## Eastern Townships, Quebec
 ### Hiking
 #### Sentiers De Piopolis
 The trail network is located in the heart of the picturesque village of Piopolis through rich habitats, for both wildlife and for the flora. Some trails lead into the forest and one of them leads to the discovery of a marsh. Every hour of the day, you can hear the church bell ringing, from which the network trail gets its name. another trail, outside the village, allows hiking to mont Scotch Cap.
@@ -43,3 +44,60 @@ Discover the universe and the pleasure of a water park in the mountains. Swimmin
 - [parlez@skibromont.com](mailto:parlez@skibromont.com)
 
 ![Sentiers De Piopolis](https://github.com/brocktaban/website/blob/trip/trip/canada/east-coast/images/bromont-montagnes-d-experiences-water-park.png?raw=true)
+
+### Summit Drive
+Between Mont Mégantic and Mont Ham, you’ll find 193 kilometres of marked trails. Word to the wise: You’ll want to stop and soak in the breathtaking views along the way. Continue climbing and you’ll feel like you can touch the sky—or almost. Look around and spot beautiful lakes, neighbouring mountains and lovely little villages nestled in at their feet, from La Patrie to Saint-Adrien, but also the entire region of Mégantic. And the beauty doesn’t stop when night falls: You’re in the heart of the International Dark Sky Reserve. Look up! [Detailed map here.](https://www.easterntownships.org/tourist-routes/1/summit-drive)
+
+![Summit Drive](https://github.com/brocktaban/website/blob/trip/trip/canada/east-coast/images/summit-drive.png?raw=true)
+
+#### Sights To See
+1. Saint-Adrien
+2. Weedon (secteur Saint-Gérard)
+3. Stratford
+4. Stornoway
+5. Saint-Romain
+6. Lambton
+7. Saint-Sébastien
+8. Lac-Drolet
+9. Saint-Ludger
+10. Saint-Robert-Bellarmin
+11. Audet
+12. Frontenac
+13. Lac-Mégantic
+14. Marston
+15. Piopolis
+16. Saint-Augustin-de-Woburn
+17. Val-Racine
+18. Notre-Dame-des-Bois 
+19. La Patrie
+20. Chartierville
+
+#### Interesting Panoramic Scenic Viewpoints
+1. Côte des Lignes (Chartierville)
+2. Halte de Notre-Dame-des-Bois
+3. Sommet de la montagne de Marbre (Sentiers Frontaliers)
+4. Mont Saint-Joseph (Parc national du Mont-Mégantic)
+5. Mont Mégantic (Parc national du Mont-Mégantic)
+6. Mont Gosford*
+7. Quai de Piopolis
+8. Quai de la Ferme (route 263 à la tête du lac)
+9. Tour d'observation des Hautes-Appalaches (Frontenac)
+10. Lac aux Araignées (Frontenac)
+11. Parc de la Croix Lumineuse (Lac-Mégantic)
+12. Parc de l'OTJ (Lac-Mégantic)
+13. Chemin Dostie (Audet)
+14. Maison du granit (Lac-Drolet)
+15. Morne de Saint-Sébastien (Maison du granit)
+16. Face de signe (Sentiers du Mont-Bélanger)
+17. Mont Bélanger (panneau rencontre au sommet à venir)
+18. Massif de Winslow (Parc national de Frontenac)
+19. Mont-Ham (Parc régional du Mont-Ham)
+
+#### Observation Towers
+
+1. Maskinongé Marsh walking trail
+2. Mont Morne summit
+3. Hautes-Appalaches observation tower
+4. Mont Gosford summit 
+
+![Discover The Summit Drive](https://github.com/brocktaban/website/blob/trip/trip/canada/east-coast/images/discover-the-summit-drive.png?raw=true)
