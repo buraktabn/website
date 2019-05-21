@@ -6,7 +6,7 @@ This is a guide for the  the east coast Canada trip
 The Trans Canada Highway will take you on the most direct route straight through Eastern Canada. Hop on the highway in Montreal and drive straight through to St. John’s, Newfoundland – with a ferry ride in between the mainland and Newfoundland of course.
 ![East Trans Canada Highway](![east-trans-canada-highway.png](https://github.com/brocktaban/website/blob/trip/trip/canada/east-coast/images/east-trans-canada-highway.png?raw=true)
 
-## ## Eastern Townships, Quebec
+## Eastern Townships, Quebec
 ### Hiking
 #### Sentiers De Piopolis
 The trail network is located in the heart of the picturesque village of Piopolis through rich habitats, for both wildlife and for the flora. Some trails lead into the forest and one of them leads to the discovery of a marsh. Every hour of the day, you can hear the church bell ringing, from which the network trail gets its name. another trail, outside the village, allows hiking to mont Scotch Cap.
