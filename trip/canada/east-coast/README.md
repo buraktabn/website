@@ -101,3 +101,47 @@ Between Mont Mégantic and Mont Ham, you’ll find 193 kilometres of marked trai
 4. Mont Gosford summit 
 
 ![Discover The Summit Drive](https://github.com/brocktaban/website/blob/trip/trip/canada/east-coast/images/discover-the-summit-drive.png?raw=true)
+
+### Where to Stay
+#### Hotels and country Inns 
+
+1. Auberge "Motel" Le Pigeonnier - Farnham
+2. Beatnik Hôtel - Bromont
+3. La Source - Saint
+
+#### Bed and breakfasts
+
+See the Townships through the eyes of a local—and enjoy both their generosity and fabulous properties
+
+1. Au gîte des 4 lacs - Sherbrooke
+2. Au Chant de l'Onde - Frelighsburg
+3. Gî'TEMPS couette et café B&B - Granby
+4. Auberge Marquis de Montcalm - Sherbrooke
+
+#### Cottages and condos
+
+From rustic accommodations in the middle of nature to luxe lodging in the city—not to mention everything in-between!—there’s something for everyone. 
+
+1. Huttopia Sutton - Sutton
+2. Au Havre des bois - Compton
+3. Le Vertendre - Eastman
+4. Domaine Yamaska - Bromont
+
+#### Campgrounds
+
+Pitch a tent or choose a full-service camping alternative (including Huttopia tents). Rustic or full-service, on the water or in the middle of the forest.
+
+1. Camping Domaine du Lac Libby - Saint-Étienne-de-Bolton
+2. Au Diable Vert « Station de montagne  - Sutton
+3. Camping Plage McKenzie - Racine
+4. Camping Parc de la Gorge de Coaticook - Caticook
+5. Camping Nature Plein Air - Mansonville
+
+#### Off the beaten path
+
+Spend the night in a tree house, yurt, tipi or eco-lodge.
+
+1. Les Côteaux Missisquoi - Saint-Étienne-de-Bolton
+2. Parc régional du Mont-Ham - Ham-Sud
+3. Zoobox / Le Vertendre - Eastman
+4. Hébergement aux Cinq Sens (Yourtes) - Piopolis
