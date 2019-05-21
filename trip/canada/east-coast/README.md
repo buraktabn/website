@@ -4,9 +4,12 @@ This is a guide for the  the east coast Canada trip
 
 ### Trans Canada Highway
 The Trans Canada Highway will take you on the most direct route straight through Eastern Canada. Hop on the highway in Montreal and drive straight through to St. John’s, Newfoundland – with a ferry ride in between the mainland and Newfoundland of course.
-![East Trans Canada Highway](![east-trans-canada-highway.png](https://github.com/brocktaban/website/blob/trip/trip/canada/east-coast/images/east-trans-canada-highway.png?raw=true)
+![East Trans Canada Highway](https://github.com/brocktaban/website/blob/trip/trip/canada/east-coast/images/east-trans-canada-highway.png?raw=true)
 
 ## Eastern Townships, Quebec
+
+A drive through the historic Eastern Townships is like stepping into another world. A journey around these beautiful little towns, located in southeastern Quebec just two hours from Montreal, makes for the perfect mini road trip.
+
 ### Hiking
 #### Sentiers De Piopolis
 The trail network is located in the heart of the picturesque village of Piopolis through rich habitats, for both wildlife and for the flora. Some trails lead into the forest and one of them leads to the discovery of a marsh. Every hour of the day, you can hear the church bell ringing, from which the network trail gets its name. another trail, outside the village, allows hiking to mont Scotch Cap.
@@ -73,6 +76,7 @@ Between Mont Mégantic and Mont Ham, you’ll find 193 kilometres of marked trai
 20. Chartierville
 
 #### Interesting Panoramic Scenic Viewpoints
+
 1. Côte des Lignes (Chartierville)
 2. Halte de Notre-Dame-des-Bois
 3. Sommet de la montagne de Marbre (Sentiers Frontaliers)
@@ -145,3 +149,91 @@ Spend the night in a tree house, yurt, tipi or eco-lodge.
 2. Parc régional du Mont-Ham - Ham-Sud
 3. Zoobox / Le Vertendre - Eastman
 4. Hébergement aux Cinq Sens (Yourtes) - Piopolis
+
+## The Gaspésie Tour, Quebec
+
+With its French heritage, old-world architecture, and spirited people, the province of Québec often draws comparisons to Europe. Start your immersion in this French-Canadian part of Canada in Québec City, the province’s capital. While it’s tempting to stay in the city, you’d be missing out on the jaw-dropping scenery and solitude that exemplifies the Gaspé peninsula, a 250-kilometre-long stretch of land framed by the Gulf of St. Lawrence.
+
+![The Gaspésie Tour](https://github.com/brocktaban/website/blob/trip/trip/canada/east-coast/images/the-gaspesie-tour.png?raw=true)
+
+[1500 km Google Maps route](https://www.google.com/maps/dir/46.813878,-71.207981/48.43898,-68.53497/48.944322,-66.12242/48.831635,-64.486902/48.524444,-64.21268/48.178126,-66.16662/46.813878,-71.207981/46.813878,-71.207981/@46.0252915,-70.555071,6.97z)
+
+### Quebec City
+
+With its deep history, UNESCO World Heritage Site status, and heady mix of cultures and award-winning restaurants, Québec City is practically surreal.
+
+#### Must-stops along the way
+
+This fortified provincial capital (it’s the only walled city north of Mexico) is decidedly down-to-earth. Founded in 1608, it maintains a festive atmosphere year-round, with easily-accessible sights that give you a glimpse into this exceptional city that’s a destination like no other.
+
+1. Musée National des Beaux-Arts du Québec
+2. Quartier Petit-Champlain
+3. Changing of the Guard
+
+#### Eat 
+
+1. Cantook
+2. Aux Anciens Canadiens
+
+#### End your day
+
+Finish off a day of discovery by shopping for gourmet goods and sleeping in a castle.
+
+1. L’Épicerie J.A. Moisan (The oldest grocery store in North America)
+2. Fairmont Le Château Frontenac (World’s most photographed hotel)
+
+![Quebec City](https://github.com/brocktaban/website/blob/trip/trip/canada/east-coast/images/quebec-city.png?raw=true)
+
+### Rimouski
+
+Rimouski is a city in Quebec, Canada. Rimouski is located in the Bas-Saint-Laurent region, at the mouth of the Rimouski River. It has a population of 46,860. Rimouski is the site of Université du Québec à Rimouski, the Cégep de Rimouski and the Music Conservatory.
+
+#### Must-stops along the way
+
+1. Parc National du Bic
+2. Regional Museum Rimouski
+3. Parc du Mont Saint-Louis
+4. Ferme de Professeur Tournesol
+5. Site historique maritime de la Pointe-au-Pere
+
+#### Eat
+
+1. Le Crepe Chignon
+
+#### End your day
+
+1. Hotel Saint-Germain
+2. Chalet chez Kathy
+3. Le Havre
+
+![Rimouski](https://github.com/brocktaban/website/blob/trip/trip/canada/east-coast/images/rimouski.png?raw=true)
+
+### Sainte-Anne-des-Monts
+
+Sainte-Anne-des-Monts is a city in the Gaspésie–Îles-de-la-Madeleine region of the province of Quebec in Canada. Sainte-Anne-des-Monts, a small city between the Chic-Choc Mountains and sea, it is on the south shore of the St-Lawrence river estuary.
+
+#### Must-stops along the way
+
+Get extra close with nature at its wildest by going dog sledding and looking for caribou and moose.
+
+1. Dog sledding
+2. Gaspésie National Park
+3. Musée des Phares
+4. Exploramer
+5. Extreme Chic-Chocs
+
+#### Eat
+
+Indulge in traditional Québec and Gaspésie cuisine and modern treats that bring a taste of the forest to your plate.
+
+1. La Broue in the Toupet
+2. Couleur Chocolat
+
+#### End your day
+
+See sunset and sunrise in the park surrounded by mountain views.
+
+1. Gîte du Mont-Albert
+2. La Petite du Cap
+
+![Sainte-Anne-des-Monts](https://github.com/brocktaban/website/blob/trip/trip/canada/east-coast/images/sainte-anne-des-monts.png?raw=true)
